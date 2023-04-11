@@ -7,9 +7,9 @@ require("dotenv").config();
 
 const { Telegraf, Telegram } = require("telegraf")
 
-const TOKEN = process.env.TOKEN || '';
+const TOKEN = process.env.TOKEN || '6283385917:AAE34O93Ab2FwsBfBu6qYmgcetIllmM9xpI';
 
-const ID_BOT = process.env.ID_BOT || '';
+const ID_BOT = process.env.ID_BOT || '6283385917';
 
 
 const config = require("./config")
